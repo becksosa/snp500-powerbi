@@ -1,4 +1,4 @@
-# S&P 500 Report - Power BI
+# S&P 500 Power BI Report
 In this project I create an interactive report with visualizations and KPIs from the 2025 Q4 earnings report of all stocks included in the S&P500 using python for data ingestion, SQL for storage/querying of relational databases, and Power BI for data visualization.
 
 To get the data I created a simple data ingestion pipleine with python which is included in the repo [here](/data_ingestion_pipeline/). I won't go into too much detail on how I acquired the data because the main focus of this project is the Power BI report.
