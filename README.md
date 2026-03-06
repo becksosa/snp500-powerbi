@@ -8,7 +8,7 @@ I include photos of the Power BI dashboards in the description of the project be
 ### Data Ingestion Pipeline
 Libraries: yfinance pandas, sqlalchemy, and psycopg2
  - Step one: I downloaded a CSV containing the current tickers in the S&P500 from [here](https://stockanalysis.com/list/sp-500-stocks/) and inserted it into my PostgreSQL database
- - Step two: created a python script which pulled a large variety of data about each ticker using psycopg2 to talk to my SQL database, and yfinance to pull the data from the Yahoo Finance unofficial API
+ - Step two: created a python script which pulled a large variety of data about each ticker, using psycopg2 to talk to my SQL database, and yfinance to pull the data from the Yahoo Finance unofficial API
  - Step three: insert the data pulled back into my SQL database using sqlalchemy
 
 # The Report
