@@ -11,7 +11,7 @@ Libraries: yfinance pandas, sqlalchemy, and psycopg2
  - Step two: created a python script which pulled a large variety of data about each ticker, using psycopg2 to talk to my SQL database, and yfinance to pull the data from the Yahoo Finance unofficial API
  - Step three: insert the data pulled back into my SQL database using sqlalchemy
 
-# The Report
+# The Power BI Report
 ## S&P500 Treemap
 The first and simplest page of the report is a treemap which gives you an idea of the relative portion each sector/industry takes up in the S&P500 based off of market cap.
 
