@@ -1,0 +1,5 @@
+myenv/
+.env
+__pycache__/
+setup.sh
+SP500.csv
