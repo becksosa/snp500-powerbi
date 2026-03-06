@@ -25,7 +25,7 @@ The second page of the report is a detailed dashboard which provides a number of
  - A chart plotting forward PE vs revenue growth, with each point on the plot representing a different stock, sized relative to it's market cap
  - What % of the total S&P500 market cap the selected sector is
  - Insight into analyst sentiment showing how many stocks are ranked as strong buy, buy, and hold
- - A treemap that shows red for industries with negative Q4 revenue, and green for those with positive Q4revenue
+ - A treemap that shows red for industries with negative Q4 revenue, and green for those with positive Q4 revenue
 
 I've included photos of of dashboards for three sectors below:
 
